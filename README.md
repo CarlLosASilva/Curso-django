@@ -1,2 +1,2 @@
 # Curso-django
-Curso Django
+Estudando  Django
