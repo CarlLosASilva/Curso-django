@@ -2,3 +2,6 @@ Comandos
 
 Rodar Servidor:
 python manage.py runserver
+
+Rodar pytest-cov
+pytest --cov=pypro
