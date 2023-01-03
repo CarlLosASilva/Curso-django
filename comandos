@@ -1,0 +1,4 @@
+Comandos
+
+Rodar Servidor:
+python manage.py runserver
