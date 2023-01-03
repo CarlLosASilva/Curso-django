@@ -23,4 +23,5 @@ jobs:
         pipenv sync --dev
     - name: Rodar Testes Automáticos
       run: |
-        pipenv run pytest "pypro"
+        pipenv run pytest --cov=pypro
+    
