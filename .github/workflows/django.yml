@@ -23,5 +23,3 @@ jobs:
     - name: Rodar Testes Automáticos
       run: |
         pipenv run pytest --cov=pypro
-      
-    
